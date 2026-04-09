@@ -1,0 +1,26 @@
+# Personal config (generated per-user by Claude Code)
+config.yaml
+
+# Credentials
+.env
+
+# Runtime state and output
+work/
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Claude Code local settings
+.claude/settings.local.json
