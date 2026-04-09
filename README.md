@@ -13,7 +13,7 @@ Most companies use an ATS (Greenhouse, Lever, Ashby, etc.) that exposes a public
 The easiest way to set up. Claude Code walks you through everything interactively.
 
 ```bash
-git clone https://github.com/Thebutcher-dev/job-monitor.git
+git clone https://github.com/dennisfleischer/job-monitor.git
 cd job-monitor
 claude
 ```
